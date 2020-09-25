@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira:wght@300;400;500;600;700;800;900&display=swap');
+
+:root{
+   --black: #000000;
+   --dark-gray: #383838;
+   --green: #04a78c;
+   --white: #ffffff;
+}
+
+body{
+   background-color: var(--black);
+   color: var(--white);
+   font-family: 'Saira', sans-serif;
+   font-weight: 400;
+}
+
+header h5{
+    font-size: 10px;
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: -15px;
+}
+
+header img{
+    height: 13px;
+}
+
+h1{
+   font-weight: 900;
+   font-size: 70px;
+   color: var(--green);
+   text-align: center;
+   margin-top: 30px;
+   margin-bottom: 50px;
+}
+
+.filter {
+  display: flex;
+  justify-content: space-between;
+}
+
+.filter span {
+    padding-right: 10px;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.flex-align-top {
+    margin: 20px;
+    align-items: flex-start;
+}
+
+.panel {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+.hidden {
+    display: none;
+}
+
+.space-bottom {
+    margin-bottom: 10px;
+}
+
+.avatar {
+    width: 60px;
+    height: 60px;
+    padding: 5px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.language-icon {
+    width: 16px;
+    height: 16px;
+    margin-left: 5px;
+}

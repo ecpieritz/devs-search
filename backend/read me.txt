@@ -1,0 +1,4 @@
+For the backend to work, run the following commands (without quotes):
+
+1) "npm install", to install the dependencies
+2) "npm start", to "go up" the backend
