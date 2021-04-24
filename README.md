@@ -2,7 +2,7 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://github.com/ecpieritz/devs-search/blob/master/assets/img/devs-search-print.jpg?raw=true" width = "700">
+  <img src = "https://github.com/ecpieritz/devs-search/blob/master/assets/img/devs" width = "700">
 </p>
 
 ---
