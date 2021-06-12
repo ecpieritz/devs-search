@@ -31,7 +31,7 @@ Exercise the following concepts worked on in the Module:
 
 ## 🚀 How to execute the project
 #### Clone the repository
-git clone https://github.com/EPieritz/devs-search.git
+git clone https://github.com/ecpieritz/devs-search.git
 
 #### Enter directory
 `cd devs-search`
