@@ -46,4 +46,4 @@ git clone https://github.com/ecpieritz/devs-search.git
 - click on `open with liveserver`
 
 ---
-Developed with 💙 by Emilyn C. Pieritz
+<p align = "right">Developed with 💙 by Emilyn C. Pieritz</p>
